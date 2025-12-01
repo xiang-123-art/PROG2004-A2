@@ -17,4 +17,5 @@ public class Visitor extends Person {
     public String toString() {
         return "Visitor["+getId()+","+getName()+","+getAge()+","+membershipType+","+height+"]";
     }
+    
 }
