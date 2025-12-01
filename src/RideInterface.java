@@ -8,4 +8,5 @@ public interface RideInterface {
     int     numberOfVisitors();
     void    printRideHistory();
     void    runOneCycle();
+    
 }
