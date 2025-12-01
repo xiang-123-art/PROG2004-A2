@@ -21,6 +21,7 @@ public class Ride implements RideInterface {
     public Employee getOperator() { return operator; }
     public void     setOperator(Employee op) { this.operator = op; }
 
+
     /* ---------- Interface Methods ---------- */
     @Override
     public boolean addVisitorToQueue(Visitor v) {
