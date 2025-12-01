@@ -17,6 +17,7 @@ public class AssignmentTwo {
         a2.partSeven();
     }
 
+
     /* Utility method: quickly create a Visitor */
     private Visitor makeVisitor(int idx) {
         String[] types = {"Gold", "Silver", "Bronze"};
